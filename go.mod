@@ -1,3 +1,3 @@
-module lambdaModule
+module github.com/tedmx/lambdaModule
 
 go 1.19
